@@ -14,7 +14,7 @@
 int main(void) {
 	int num1, num2;
 	long result;
-	printf("enter first number: ");
+	printf("enter 1st number: ");
 	fflush(stdout);
 	scanf("%d",&num1);
 	printf("enter second number: ");
